@@ -1,0 +1,63 @@
+/* .div {
+    position: relative;
+    display: block;
+    left: 40%;
+
+    margin-right: fixed;
+    width: 20%;
+
+
+     border-radius: 20px;
+    background-color: aliceblue;
+
+    padding: 300px 80px;
+
+
+
+
+}
+div img{
+    position: relative;
+    width: 350px;
+    left: 30px;
+    
+   
+    
+} */
+ *{
+    margin: 0px;
+    padding: 5px;
+   
+ }
+ .receipe{
+    width: 42%;
+    background-color: white;
+    
+ }
+ .image img{
+    width: 100%;
+   
+ }
+ .title-1{
+   margin-left: 2%;
+   background-color: blanchedalmond;
+   border-radius: 2%;
+
+ }
+ .dark-text{
+    
+    color: #000000;
+    font-weight: bold;
+ }
+
+ ul{
+    margin-left: 4%;
+ }
+
+ .title-2{
+
+    
+ }
+
+
+ 
